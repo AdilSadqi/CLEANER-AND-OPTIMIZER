@@ -16,15 +16,15 @@ Junk and Temp Files Cleaner and Optimizer is a powerful and lightweight batch sc
 ## Installation
 1. Download or clone this repository:
    ```sh
-   git clone https://github.com/yourusername/junk-cleaner.git
+   git clone https://github.com/AdilSadqi/CLEANER-AND-OPTIMIZER.git
    ```
 2. Navigate to the directory:
    ```sh
    cd junk-cleaner
    ```
-3. Run the script by double-clicking `cleaner.bat`, or execute it from the command prompt:
+3. Run the script by double-clicking `Cleaner and Optimizer.bat`, or execute it from the command prompt:
    ```sh
-   cleaner.bat
+   Cleaner and Optimizer.bat
    ```
 
 ## Requirements
